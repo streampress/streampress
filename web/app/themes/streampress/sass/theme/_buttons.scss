@@ -1,0 +1,20 @@
+/* --------------------------------
+
+Buttons
+
+-------------------------------- */
+
+.btn {
+	cursor: pointer;
+}
+
+.subscribe-btn {
+	background: $red;
+	border-color: darken($red, 3%);
+	cursor: pointer;
+
+	&:hover {
+		background: darken($red, 5%);
+		border-color: darken($red, 5%);
+	}
+}

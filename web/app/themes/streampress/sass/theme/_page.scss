@@ -1,0 +1,51 @@
+/* --------------------------------
+
+Page
+
+-------------------------------- */
+
+.site {
+	font-size: 1rem;
+	position: relative;
+}
+
+.page {
+	position: relative;
+	padding-top: 0;
+}
+
+#content {
+	background: #fdfdfd;
+	padding-top: $margin;
+}
+
+article {
+	margin: 0 0 2*$margin;
+}
+
+.page-title {
+	font-size: 1.5rem;
+}
+
+.entry-title {
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+}
+
+.video-metadata {
+	max-width: 500px;
+}
+
+.show-more-link {
+	padding: $padding 0;
+}
+
+.comments-title {
+    font-size: 1rem;
+    margin-bottom: 2*$padding;
+    margin-top: 2*$padding;
+}
+
+.comment-reply-title {
+	font-size: 1rem;
+}

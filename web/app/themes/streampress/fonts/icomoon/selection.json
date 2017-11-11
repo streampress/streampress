@@ -1,0 +1,157 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M810.667 469.333h-256v-256c0-23.467-19.2-42.667-42.667-42.667s-42.667 19.2-42.667 42.667v256h-256c-23.467 0-42.667 19.2-42.667 42.667s19.2 42.667 42.667 42.667h256v256c0 23.467 19.2 42.667 42.667 42.667s42.667-19.2 42.667-42.667v-256h256c23.467 0 42.667-19.2 42.667-42.667s-19.2-42.667-42.667-42.667z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "plus"
+        ],
+        "grid": 24
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 0,
+        "prevSize": 36,
+        "code": 59651,
+        "name": "plus"
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512.48 603.552l-130.304-106.976-283.584 334.816h828.032l-283.616-338.144-130.528 110.304zM957.632 192.608h-890.080l445.056 374.336 445.024-374.336zM662.56 476.384l297.312 354.688v-606.464l-297.312 251.776zM64.128 224.608v606.464l297.312-354.688-297.312-251.776z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "envelope",
+          "email",
+          "mail",
+          "letter",
+          "contact"
+        ],
+        "grid": 32
+      },
+      "attrs": [],
+      "properties": {
+        "id": 0,
+        "order": 4,
+        "prevSize": 32,
+        "code": 59650,
+        "name": "envelope3"
+      },
+      "setIdx": 1,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512.48 603.552l-130.304-106.976-283.584 334.816h828.032l-283.616-338.144-130.528 110.304zM957.632 192.608h-890.080l445.056 374.336 445.024-374.336zM662.56 476.384l297.312 354.688v-606.464l-297.312 251.776zM64.128 224.608v606.464l297.312-354.688-297.312-251.776z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "envelope",
+          "email",
+          "mail",
+          "letter",
+          "contact"
+        ],
+        "grid": 32
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 1,
+        "prevSize": 32,
+        "code": 59648,
+        "name": "envelope"
+      },
+      "setIdx": 1,
+      "setId": 3,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M928 128h-832c-53.024 0-96 42.976-96 96v576c0 52.992 42.976 96 96 96h832c53.024 0 96-43.008 96-96v-576c0-53.024-42.976-96-96-96zM87.712 831.68l-23.392-23.424 263.968-263.936 23.392 23.424-263.968 263.936zM936.288 831.68l-263.968-263.936 23.392-23.424 263.968 263.936-23.392 23.424zM544 618.4v21.6h-64v-21.6l-415.904-385.6 40.704-40.704 407.2 377.536 407.2-377.536 40.704 40.704-415.904 385.6z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "envelope",
+          "mail",
+          "email",
+          "contact"
+        ],
+        "grid": 16
+      },
+      "attrs": [],
+      "properties": {
+        "id": 0,
+        "order": 3,
+        "prevSize": 32,
+        "code": 59649,
+        "name": "envelope2"
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

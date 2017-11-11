@@ -1,0 +1,86 @@
+/* --------------------------------
+
+Variables
+
+-------------------------------- */
+
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder.
+// Just copy a variable from /sass/bootstrap/_variables.scss, paste it here and edit the value.
+// As example you find one of the most important Bootstrap variable below: $brand-primary.
+// Thats the ugly Bootstrap blue used for all the links, primary buttons etc.
+// Just add your color code here, compile the theme.scss file to change this color everywhere
+
+// Typography
+$primary-font: 'Roboto', Arial, sans-serif;
+
+// Colors
+$primary-color: #22466b;
+$text-color: #2b2b2b;
+$black: #000;
+$white: #fff;
+$blue: #086ebd;
+$red: #e60b0b;
+$gray-darkest: #111;
+$gray-darker: #222;
+$gray-dark: #333;
+$gray: #666;
+$gray-light: #acabab;
+$gray-lighter: #e4e4e4;
+$gray-lightest: #f7f7f9;
+$button-color: $primary-color;
+$paging-color: $gray-dark;
+$divider-color: #f5f5f5;
+
+// Brand colors
+$facebook: #3c5a96;
+$twitter: #1c94e0;
+$pinterest: #c9232d;
+$email: $gray;
+$sms: $gray-dark;
+$whatsapp: #00e676;
+
+// Layout
+$site-width: 1280px;
+$margin: 15px;
+$padding: 10px;
+
+// Components
+$avatar-small: 40px;
+$avatar-large: 50px;
+
+// Header
+$header-height: 56px;
+$search-height: 32px;
+
+// Footer
+$share-height: 44px;
+
+
+/* --------------------------------
+
+Overrides
+
+-------------------------------- */
+
+// Typography
+$font-family-sans-serif: $primary-font;
+$font-size-h1: 1.875rem;
+$font-size-h2: 1.5rem;
+$font-size-h3: 1.3125rem;
+$font-size-h4: 1.125rem;
+$font-size-h5: 0.9375rem;
+$font-size-h6: 0.75rem;
+
+// Colors
+$brand-primary: $gray-dark;
+
+// Buttons
+$btn-padding-x: .65rem;
+$btn-padding-y: .45rem;
+$btn-primary-bg: $button-color;
+
+// Paging
+$pagination-color: $paging-color;
+$pagination-active-bg: $paging-color;
+$pagination-active-border: $paging-color;

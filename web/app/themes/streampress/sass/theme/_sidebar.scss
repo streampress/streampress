@@ -1,0 +1,40 @@
+/* --------------------------------
+
+Sidebar
+
+-------------------------------- */
+
+.sidebar {
+
+	h3 {
+	    font-size: 1.3rem;
+	}
+
+	h4 {
+		font-size: 1rem;
+	}
+}
+
+.sidebar-container {
+    margin-left: -$margin;
+    margin-right: -$margin;
+}
+
+.sidebar-controls {
+    position: relative;
+    text-align: right;
+    margin-bottom: 5px;
+
+    .text {
+    	display: inline-block;
+    	line-height: 40px;
+    }
+}
+
+@include media-breakpoint-down(md) {
+
+	.sidebar-container {
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+}

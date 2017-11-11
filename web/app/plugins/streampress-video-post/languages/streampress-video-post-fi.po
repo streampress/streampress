@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi\n"
+
+msgid "Videos"
+msgstr "Videot"
+
+msgid "Playlists"
+msgstr "Soittolistat"
+
+msgid "Playlist"
+msgstr "Soittolista"
+
+msgid "Add New Playlist"
+msgstr "Lisää soittolista"
+
+msgid "Video filename"
+msgstr "Videon tiedostonimi"
+
+msgid "Video filename, ex: \"%s\" in %s"
+msgstr "Videon tiedostonimi, esim. “%s” kuten %s"
+
+msgid "Copyright license for the video"
+msgstr "Tekijänoikeuslisenssi videolle"
+
+msgid "Read more about %s"
+msgstr "Lue lisää aiheesta %s"
+
+msgid "Read more about"
+msgstr "Lue lisää aiheesta"
+
+msgid "Licenses"
+msgstr "Lisenssit"

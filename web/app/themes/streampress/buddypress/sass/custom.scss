@@ -1,0 +1,83 @@
+
+/* --------------------------------
+
+Buddypress overrides / Register Page
+
+-------------------------------- */
+
+body.register {
+	.site-main {
+		padding: 0 10%;
+	}
+}
+
+#register-page {
+	padding: $padding 0;
+
+	input[type="text"] {
+		width: 100% !important;
+	}
+
+	legend {
+	    font-size: 1rem;
+	}
+}
+
+#buddypress .standard-form#signup_form div div.error {
+	background: $white;
+	margin: 0 0 5px;
+	padding: 0px;
+	width: 100%;
+}
+
+#buddypress .field-visibility-settings legend,
+#buddypress .field-visibility-settings-toggle {
+	margin-top: 10px;
+}
+
+#buddypress .standard-form#signup_form div.submit {
+	float: right;
+}
+
+#buddypress .standard-form#signup_form div.submit {
+    float: none;
+}
+
+#buddypress .standard-form div.submit input {
+	padding: 8px;
+}
+
+@include media-breakpoint-down(sm) {
+
+	body.register {
+		.site-main {
+			padding: 0 $margin;
+		}
+	}
+}
+
+@include media-breakpoint-down(xs) {
+
+	body.register {
+		.site-main {
+			padding: 0;
+		}
+	}
+}
+
+
+/* --------------------------------
+
+Buddypress overrides / Member Page
+
+-------------------------------- */
+.bp_members {
+	.item-list-tabs {
+		position: relative;
+		z-index: 10;
+	}
+
+	li {
+	    background: fade-out($white, 0.5);
+	}
+}

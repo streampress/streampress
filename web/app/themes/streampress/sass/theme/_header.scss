@@ -1,0 +1,78 @@
+/* --------------------------------
+
+Header
+
+-------------------------------- */
+
+.wrapper-navbar {
+
+	.navbar-brand {
+	    margin-right: 2*$margin;
+	    font-size: 1.1rem;
+	    line-height: 40px;
+	    padding-top: 0;
+	    padding-bottom: 0;
+	}
+
+	.navbar-light {
+		border-bottom: 1px solid #efefef;
+	}
+
+	.navbar {
+	    padding: 8px $margin;
+	    flex-direction: row;
+	}
+}
+
+.slideout-toggle {
+	line-height: 40px;
+	padding: 0 $margin 0 0;
+	font-size: 1.2rem;
+	cursor: pointer;
+	color: #666;
+}
+
+.site-logo {
+	font-size: 2.5rem;
+	color: $primary-color;
+	margin-right: $margin;
+}
+
+.search-container {
+	flex: 1;
+	margin-top: 3px;
+
+	.input-group {
+		max-width: 560px;
+	}
+
+	.search-input {
+	    font-size: 0.95rem;
+	    padding: 0 $padding;
+	    color: $text-color;
+	}
+
+	.search-btn {
+		font-size: 0.95rem;
+		padding-left: $margin;
+		padding-right: $margin;
+		border-radius: .2375rem;
+		cursor: pointer;
+
+		.icon {
+		    position: relative;
+		    top: -1px;
+		    left: -1px;
+		}
+	}
+}
+
+.header-btn-container {
+	width: 200px;
+	text-align: right;
+	padding-top: 6px;
+
+	.btn {
+		margin-left: 6px;
+	}
+}
